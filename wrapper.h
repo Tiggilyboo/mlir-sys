@@ -23,9 +23,9 @@
 #include <mlir-c/Dialect/Quant.h>
 #include <mlir-c/Dialect/ROCDL.h>
 #include <mlir-c/Dialect/SCF.h>
+#include <mlir-c/Dialect/SPIRV.h>
 #include <mlir-c/Dialect/Shape.h>
 #include <mlir-c/Dialect/SparseTensor.h>
-#include <mlir-c/Dialect/SPIRV.h>
 #include <mlir-c/Dialect/Tensor.h>
 #include <mlir-c/Dialect/Transform.h>
 #include <mlir-c/Dialect/Vector.h>
