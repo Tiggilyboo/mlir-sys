@@ -36,4 +36,5 @@
 #include <mlir-c/Pass.h>
 #include <mlir-c/RegisterEverything.h>
 #include <mlir-c/Support.h>
+#include <mlir-c/Target/LLVMIR.h>
 #include <mlir-c/Transforms.h>
